@@ -1,0 +1,8 @@
+TechCentre GUI Alpha 0.0.0.2
+============================
+Changelog
+============================
+
+- Improved browser quality, moved away from IE engine, now able to use HTML 5
+	properly without repair portals looking off.
+- Tweaked UI

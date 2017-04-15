@@ -1,0 +1,93 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TechCentre
+</name>
+</assembly>
+<members>
+<member name="T:TechCentre.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.cexrepairs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.changelog">
+<summary>
+  Looks up a localized string similar to TechCentre GUI Alpha 0.0.0.2
+============================
+Changelog
+============================
+
+- Improved browser quality, moved away from IE engine, now able to use HTML 5
+	properly without repair portals looking off.
+- Tweaked UI.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.green1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.logogreen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.logoHQ">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.logoHQ1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.logoHQ2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.pink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.pink1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:TechCentre.My.Resources.Resources.red1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
